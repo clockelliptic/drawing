@@ -1,0 +1,60 @@
+{
+  "name": "drawing",
+  "version": "0.1.0",
+  "homepage": "https://clockelliptic.github.io/",
+  "private": true,
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.0.4",
+    "@vx/curve": "0.0.192",
+    "@vx/drag": "0.0.192",
+    "@vx/gradient": "0.0.192",
+    "@vx/group": "0.0.192",
+    "@vx/mock-data": "0.0.192",
+    "@vx/scale": "0.0.192",
+    "@vx/shape": "0.0.192",
+    "body-parser": "^1.19.0",
+    "d3-array": "^2.4.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "gh-pages": "^2.1.1",
+    "grommet": "^2.8.1",
+    "grommet-icons": "^4.4.0",
+    "polished": "^3.4.2",
+    "pusher": "^3.0.0",
+    "pusher-js": "^5.0.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-grid-layout": "^0.17.1",
+    "react-inlinesvg": "^1.2.0",
+    "react-redux": "^7.1.3",
+    "react-scripts": "^3.3.0",
+    "redux": "^4.0.4",
+    "redux-observable": "^1.2.0",
+    "rxjs": "^6.5.3",
+    "styled-components": "^4.4.1",
+    "uuid": "^3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
