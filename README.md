@@ -1,3 +1,12 @@
+# Social Drawing App
+
+*Under development*
+Backend can be found at https://https://github.com/clockelliptic/drawing-backend
+
+See the product in development at https://clockelliptic.github.io
+
+
+--------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
