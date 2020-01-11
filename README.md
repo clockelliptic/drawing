@@ -1,8 +1,7 @@
 # Social Drawing App
 
-Social app for drawing League of Legends tactics and strategies. Final result will be frame-by-frame playmaking tool for game strategies and gameplay analysis.
+*Under development* Social app for drawing League of Legends tactics and strategies. Final result will be frame-by-frame playmaking tool for game strategies and gameplay analysis.
 
-*Under development*
 Backend can be found at https://https://github.com/clockelliptic/drawing-backend
 
 See the product in development at https://clockelliptic.github.io
