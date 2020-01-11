@@ -5,6 +5,8 @@ Backend can be found at https://https://github.com/clockelliptic/drawing-backend
 
 See the product in development at https://clockelliptic.github.io
 
+Create a new layer, and then begin drawing. Watch your browser console to see as actions are fired to and from the local session and the **stateless** relay server. The backend does not store any data. All connected users share data. A user only sees data that has been posted prior to establishing a connection.
+
 
 --------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
